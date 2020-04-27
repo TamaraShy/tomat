@@ -1,0 +1,21 @@
+Index: src/test/java/TOM11.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/test/java/TOM11.java	(date 1587988295000)
++++ src/test/java/TOM11.java	(date 1587988426922)
+@@ -15,10 +15,6 @@
+     public void onFinished (ISuite suite) {
+         System.out.println("Finish Suite name: " + suite.getName());
+         System.out.println("Finish Suite name: " + suite.getName());
+-вылралырларыалыраылр        'олрл
+-    ;l'
++        System.out.println("Finish Suite name: " + suite.getName());
+     }
+-
+-}
+-{
+-}
++}
+\ No newline at end of file
