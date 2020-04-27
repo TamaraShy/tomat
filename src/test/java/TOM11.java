@@ -14,6 +14,8 @@ public class MyCustomTestListener implements ITestNGListener {
     @Override
     public void onFinished (ISuite suite) {
         System.out.println("Finish Suite name: " + suite.getName());
+        '
+    ;l'
     }
 
 }
