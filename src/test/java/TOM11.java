@@ -15,10 +15,6 @@ public class MyCustomTestListener implements ITestNGListener {
     public void onFinished (ISuite suite) {
         System.out.println("Finish Suite name: " + suite.getName());
         System.out.println("Finish Suite name: " + suite.getName());
-вылралырларыалыраылр        'олрл
-    ;l'
+        System.out.println("Finish Suite name: " + suite.getName());
     }
-
-}
-{
 }
